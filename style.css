@@ -36,3 +36,7 @@ featured-property p{
   display: block;
   
 }
+
+div{
+  float: left;
+}
