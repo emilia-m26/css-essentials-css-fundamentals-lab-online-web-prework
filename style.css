@@ -34,7 +34,7 @@ featured-property p{
 
 #details {
   display: block;
-  
+  align-items: horizontal;
 }
 
 div{
