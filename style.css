@@ -31,3 +31,8 @@ featured-property p{
   margin-left: auto;
   margin-right: auto;
 }
+
+#details {
+  display: block;
+  
+}
