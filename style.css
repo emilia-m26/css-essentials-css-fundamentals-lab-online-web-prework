@@ -41,5 +41,7 @@ div{
   float: left;
   width: 25%;
   background-color: red;
+  padding-left: 10px;
+  padding-right: 10px;
   
 }
