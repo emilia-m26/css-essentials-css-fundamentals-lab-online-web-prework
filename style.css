@@ -3,3 +3,44 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+nav>a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: teal;
+}
+
+figcaption{
+  font-size: 10px;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#details {
+  display: block;
+  align-items: baseline;
+}
+
+div{
+  float: left;
+  width: 25%;
+  background-color: teal;
+  text-align: center;
+
+}
